@@ -1,0 +1,2 @@
+echo " adding new file" > file3
+echo "adding new line1 " >> file3
