@@ -1,0 +1,2 @@
+echo "line1" > file2
+echo " line2 " >> file2
